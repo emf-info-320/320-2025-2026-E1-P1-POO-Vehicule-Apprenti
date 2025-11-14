@@ -5,11 +5,15 @@
 **Durée :** 60'
 
 > [!CAUTION]
-> :exclamation: Vous n'avez droit à rien d'autre que VSC :exclamation:  
-> :warning: Pas de RP :exclamation:  
-> :warning: Pas d'exercices réalisés :exclamation:  
-> :warning: Pas d'IA (externe ou interne) ni aucune autre forme d'aide :exclamation:  
-> ✅ Rien que vous + la consigne imprimée + votre compréhension de la lecture d'UML :exclamation:
+> ⚠️ Vous n'avez droit à rien d'autre que VSC
+> 
+> 🚫  Pas de RP 
+> 
+> 🚫  Pas d'exercices réalisés ni de projet personnel
+> 
+> 🚫  Pas d'IA (externe ou interne) ni aucune autre forme d'aide
+> 
+> ✅ Rien que vous + la consigne imprimée + votre compréhension de la lecture d'UML
 
 ## Travail à réaliser
 
